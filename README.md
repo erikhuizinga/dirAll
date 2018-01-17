@@ -1,3 +1,6 @@
+[![MATLAB FEX](https://img.shields.io/badge/MATLAB%20FEX-findduplicates-blue.svg)](https://mathworks.com/matlabcentral/fileexchange/65744-dirall)
+![R2016a support](https://img.shields.io/badge/supports-R2016a%20and%20up-brightgreen.svg)
+
 # `dirAll`
 
 Find all paths in the specified directory and its subdirectories.
